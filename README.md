@@ -11,7 +11,9 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 
 **Database:** Mongo DB
 
+## Live App
 
+**Live App Link** https://chit-chat-d94g.onrender.com/
 ## Demo
 
 **Demo Video** https://www.loom.com/share/cc42039d74cf4aedaf93948c99fdb78b?sid=63b7c4d1-2233-4b24-b288-3bdd0dbb4a54
